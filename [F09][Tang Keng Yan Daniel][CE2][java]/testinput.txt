@@ -1,0 +1,33 @@
+add little brown fox
+display
+ADD jumped over the moon
+display
+add i love cs2103 hahahahahaha.
+display
+delete 2
+display
+add hello baby1
+add hello papa2
+add hello mama 3 4 5
+dISpLay
+delete 1
+display
+delete 0
+display
+clear
+display
+Display
+delete 5
+displey
+clear
+bye
+add abcde baby
+add zxcv boy baby
+add abc
+add Abc
+display
+sort
+display
+search boy
+search baby
+exit
